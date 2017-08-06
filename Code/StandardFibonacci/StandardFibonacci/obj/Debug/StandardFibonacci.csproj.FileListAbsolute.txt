@@ -1,0 +1,6 @@
+D:\Lecturing\Matakuliah\MK-DAA\Code\StandardFibonacci\StandardFibonacci\bin\Debug\StandardFibonacci.exe.config
+D:\Lecturing\Matakuliah\MK-DAA\Code\StandardFibonacci\StandardFibonacci\bin\Debug\StandardFibonacci.exe
+D:\Lecturing\Matakuliah\MK-DAA\Code\StandardFibonacci\StandardFibonacci\bin\Debug\StandardFibonacci.pdb
+D:\Lecturing\Matakuliah\MK-DAA\Code\StandardFibonacci\StandardFibonacci\obj\Debug\StandardFibonacci.csprojResolveAssemblyReference.cache
+D:\Lecturing\Matakuliah\MK-DAA\Code\StandardFibonacci\StandardFibonacci\obj\Debug\StandardFibonacci.exe
+D:\Lecturing\Matakuliah\MK-DAA\Code\StandardFibonacci\StandardFibonacci\obj\Debug\StandardFibonacci.pdb

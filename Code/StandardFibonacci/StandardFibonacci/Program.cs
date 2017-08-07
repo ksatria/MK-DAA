@@ -10,7 +10,8 @@ namespace StandardFibonacci
     {
         static void Main(string[] args)
         {
-            int n, result;
+            int n;
+            double result;
             Fibonacci fibo = new Fibonacci();
 
             Console.Write("Request bilangan Fibonacci ke : ");

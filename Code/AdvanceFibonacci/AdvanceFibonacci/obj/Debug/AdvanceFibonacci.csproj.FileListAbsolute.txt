@@ -1,0 +1,6 @@
+D:\Lecturing\Matakuliah\MK-DAA\Code\AdvanceFibonacci\AdvanceFibonacci\bin\Debug\AdvanceFibonacci.exe.config
+D:\Lecturing\Matakuliah\MK-DAA\Code\AdvanceFibonacci\AdvanceFibonacci\bin\Debug\AdvanceFibonacci.exe
+D:\Lecturing\Matakuliah\MK-DAA\Code\AdvanceFibonacci\AdvanceFibonacci\bin\Debug\AdvanceFibonacci.pdb
+D:\Lecturing\Matakuliah\MK-DAA\Code\AdvanceFibonacci\AdvanceFibonacci\obj\Debug\AdvanceFibonacci.csprojResolveAssemblyReference.cache
+D:\Lecturing\Matakuliah\MK-DAA\Code\AdvanceFibonacci\AdvanceFibonacci\obj\Debug\AdvanceFibonacci.exe
+D:\Lecturing\Matakuliah\MK-DAA\Code\AdvanceFibonacci\AdvanceFibonacci\obj\Debug\AdvanceFibonacci.pdb

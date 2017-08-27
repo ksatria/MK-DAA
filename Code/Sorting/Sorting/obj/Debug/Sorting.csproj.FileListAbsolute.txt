@@ -1,0 +1,6 @@
+D:\Lecturing\Matakuliah\MK-DAA\Code\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+D:\Lecturing\Matakuliah\MK-DAA\Code\Sorting\Sorting\bin\Debug\Sorting.exe.config
+D:\Lecturing\Matakuliah\MK-DAA\Code\Sorting\Sorting\bin\Debug\Sorting.exe
+D:\Lecturing\Matakuliah\MK-DAA\Code\Sorting\Sorting\bin\Debug\Sorting.pdb
+D:\Lecturing\Matakuliah\MK-DAA\Code\Sorting\Sorting\obj\Debug\Sorting.exe
+D:\Lecturing\Matakuliah\MK-DAA\Code\Sorting\Sorting\obj\Debug\Sorting.pdb

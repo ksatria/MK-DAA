@@ -65,5 +65,51 @@ namespace Sorting
             }
             return this.data;
         }
+
+        public int[] quickSort()
+        {
+            return this.quickSort(this.data);
+        }
+
+        private int[] quickSort(int[] d)
+        {
+            int l = 0;
+            int r = d.Length - 1;
+            int s;
+
+            if (l < r)
+            {
+                s = this.partition(d);
+                this.quickSort(d);
+            }
+            return this.data;
+        }
+
+        private int partition(int[] d)
+        {
+            int l = 0;
+            int p = d[l];
+            int i = l;
+            int j = d.Length;
+
+            do
+            {
+                do
+                    i++;
+                while (d[i] < p);
+
+                do
+                    j--;
+                while (d[j] > p);
+
+                this.swap(i, j);
+            }
+            while (i < j);
+
+            this.swap(i, j);
+            this.swap(l, j);
+
+            return j;
+        }
     }
 }

@@ -11,7 +11,7 @@ namespace FibonacciDP
         static void Main(string[] args)
         {
             int n;
-            int[] hasil;
+            double[] hasil;
             
             Fibonacci fibo = new Fibonacci();
 

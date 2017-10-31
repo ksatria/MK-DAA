@@ -2,9 +2,9 @@
 
 public class Fibonacci
 {
-	public int[] hitung(int n)
+	public double[] hitung(int n)
 	{
-        int[] F = new int[n+1];
+        double[] F = new double[n+1];
 
         F[0] = 0;
         F[1] = 1;
